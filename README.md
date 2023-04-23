@@ -43,4 +43,4 @@ files.upload()
 ```
 ## Videos
 
-[Video - entrega 2](https://youtu.be/n2YW2c68oC4)
+[Video](https://youtu.be/n2YW2c68oC4) Entrega 2: avances.
