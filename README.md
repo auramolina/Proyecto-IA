@@ -1,7 +1,7 @@
 # PROYECTO RIESGO DE INCUMPLIMIENTO CREDITICIO
 
 ## Miembros del grupo
-- Aura Molina, CC 1006510913, Ingeniería Industrial
+- Aura María Molina, CC 1006510913, Ingeniería Industrial
 
 - Valeria González Gonzalez, CC 1000099730, Ingeniería Industrial
 
@@ -43,4 +43,5 @@ files.upload()
 ```
 ## Videos
 
-[Video](https://youtu.be/n2YW2c68oC4) Entrega 2: avances.
+* [Entrega 2 : Avances.](https://youtu.be/n2YW2c68oC4) 
+* [Entrega Final]()
